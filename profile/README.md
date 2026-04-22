@@ -8,7 +8,7 @@
 
 <h1 align="center">🧬 stipwunaraha</h1>
 -->
-<p align="center"><i>Membongkar Fondasi Metrik: AI untuk Evaluasi Dampak Pengetahuan yang Sebenarnya.</i></p>
+<h3 align="center"><i>Membongkar Fondasi Metrik: AI untuk Evaluasi Dampak Pengetahuan yang Sebenarnya.</i></h3>
 
 <p align="center">
   <a href="#-visi-kami"><img src="https://img.shields.io/badge/Visi-Lihat%20Manifesto-blue" alt="Manifesto"></a>
