@@ -22,14 +22,6 @@
 
 **Stipwunaraha** adalah laboratorium komputasi liar yang menantang status quo *Scientometrics*. Kami membangun model AI dan pipeline data untuk mengukur resonansi intelektual di luar angka kutipan mentah.
 
-### ❓ Mengapa Kami Ada?
-Sistem evaluasi akademik saat ini gagal menangkap:
-- **🌱 Inovasi Dini**: Ide jenius yang baru diakui 20 tahun kemudian.
-- **🌍 Dampak Luas**: Perubahan kebijakan publik, praktik industri, atau perangkat lunak yang digunakan jutaan orang.
-- **🗣️ Percakapan Senyap**: Kontribusi dalam diskusi forum, peer review, atau mentoring.
-
-Kami percaya AI dapat membaca "nada dan jeda" dalam percakapan ilmiah, bukan sekadar menghitung volumenya.
-
 ---
 
 ### 🤝 Bergabung & Berkontribusi
