@@ -1,8 +1,10 @@
-<!-- .github/profile/README.md -->
+<!-- .github/profile/README.md 
+
 
 <p align="center">
   <img src="https://via.placeholder.com/150x150/0d1117/ffffff?text=STIP" alt="stipwunaraha logo" width="150" />
 </p>
+-->
 
 <h1 align="center">🧬 stipwunaraha</h1>
 <p align="center"><i>Membongkar Fondasi Metrik: AI untuk Evaluasi Dampak Pengetahuan yang Sebenarnya.</i></p>
