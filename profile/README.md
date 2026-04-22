@@ -32,18 +32,6 @@ Kami percaya AI dapat membaca "nada dan jeda" dalam percakapan ilmiah, bukan sek
 
 ---
 
-### 📂 Repositori Unggulan
-
-| Repositori | Deskripsi Singkat | Status |
-| :--- | :--- | :--- |
-| [**citation-graph-neural-embedding**](https://github.com/stipwunaraha/citation-graph-neural-embedding) | **Semantic Echo**: Representasi Vektor Dampak Karya Ilmiah dengan Graph Neural Networks. | 🚧 *Inisialisasi* |
-| [**latent-knowledge-diffusion-index**](https://github.com/stipwunaraha/latent-knowledge-diffusion-index) | **L-KDI**: Indeks Difusi Pengetahuan Laten. Melacak "hantu" ide yang kembali relevan. | 🚧 *Inisialisasi* |
-| [**altmetric-validator-ai**](https://github.com/stipwunaraha/altmetric-validator-ai) | **Wunaraha**: Framework Audit Halusinasi Metrik Alternatif. Membedakan *Buzz* vs. Adopsi Intelektual. | 🚧 *Inisialisasi* |
-| [**research-paradigm-shift-detector**](https://github.com/stipwunaraha/research-paradigm-shift-detector) | **STIP**: Mendeteksi momen ketika komunitas riset berganti definisi konsep kunci. | 🚧 *Inisialisasi* |
-| [**manifesto**](https://github.com/stipwunaraha/manifesto) | Esai pendek: *"Beyond the H-Index: A Call for Latent Impact"*. | 📖 *Aktif* |
-
----
-
 ### 🤝 Bergabung & Berkontribusi
 
 Kami terbuka untuk siapa saja yang muak dengan permainan metrik dan ingin membangun alat ukur yang lebih manusiawi.
