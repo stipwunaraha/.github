@@ -31,5 +31,5 @@ Kami terbuka untuk siapa saja yang muak dengan permainan metrik dan ingin memban
 ---
 
 <p align="center">
-  <sub>Dibangun dengan 🧠 dan semangat memberontak terhadap H-index. | © 2025 stipwunaraha</sub>
+  <contributor>Dibangun dengan 🧠 dan semangat memberontak terhadap H-index. | © 2025 stipwunaraha</contributor>
 </p>
